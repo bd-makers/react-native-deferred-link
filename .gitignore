@@ -1,0 +1,9 @@
+node_modules/
+lib/
+android/build/
+android/.gradle/
+example/android/build/
+example/ios/build/
+example/ios/Pods/
+*.tgz
+.DS_Store

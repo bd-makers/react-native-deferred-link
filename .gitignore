@@ -7,4 +7,3 @@ example/ios/build/
 example/ios/Pods/
 *.tgz
 .DS_Store
-.npmrc
